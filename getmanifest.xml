@@ -6,7 +6,7 @@
             <owner>SIE</owner>
             <desc>This is custom ticker text!</desc>
             <url type="2">http://imageurl_preferably.jpg</url>
-            <target type="u">psgm:install?contentid=TA9000-SAVE00000_00-0000000000000000&amp;url=http%3A%2F%2F192.168.1.118%2Fps3%2Fcoolpackage.pkg</target>
+            <target type="u">url_or_psgm_command</target>
             <cntry agelmt="0">all</cntry>
             <lang>all</lang>
         </mtrl>
