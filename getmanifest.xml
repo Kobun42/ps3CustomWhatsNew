@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nsx ver="1.0" rev="6" lt-id="131" anno="max-age=30" min-sys-ver="">
+    <spc id="33537" rep="t" multi="o" anno="">
+        <mtrl id="210000144" mname="Playstation TEST" from="2000-01-01T01:00:00.000Z" until="9999-03-31T17:00:00.000Z" lastm="2069-12-31T09:00:00.000Z" anno="picks=1">
+            <name>Whats New</name>
+            <owner>SIE</owner>
+            <desc>This is custom ticker text!</desc>
+            <url type="2">http://imageurl_preferably.jpg</url>
+            <target type="u">psgm:install?contentid=TA9000-SAVE00000_00-0000000000000000&amp;url=http%3A%2F%2F192.168.1.118%2Fps3%2Fcoolpackage.pkg</target>
+            <cntry agelmt="0">all</cntry>
+            <lang>all</lang>
+        </mtrl>
+        <mtrl id="210000146" mname="HOME_130829_WELCOME_KOBUN42" from="2000-01-01T01:00:00.000Z" until="9999-03-31T17:00:00.000Z" lastm="2020-02-05T09:00:00.000Z" anno="">
+            <name>WELCOME HOME</name>
+            <owner>SCEE</owner>
+            <desc>Playstation Home</desc>
+            <url type="2">http://imageurl_preferably.jpg</url>
+            <target type="u">psgm:play?id=NPIA00005</target>
+            <cntry agelmt="0">all</cntry>
+            <lang>all</lang>
+        </mtrl>
+    </spc>
+</nsx>
+
